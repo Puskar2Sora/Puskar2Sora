@@ -1,10 +1,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=800&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=ゼロ+いち+に+さん+ご+はち+じゅうさん+にじゅういち+さんじゅうよん+ごじゅうご+はちじゅうきゅう+ひゃくよんじゅうよん+にひゃくさんじゅうさん;Mo5hi+Mo5hi+👋;おはようございます+プスカーさん+;I'm+Pu5kar+Na1h;I'm+Puskar+Nath;Coder+%7C+Guitarist+%7C+Anime+Lover;%3CERROR%3E+LOADING...;⚠+システム破損+⚠;⚠+System+Corrupted+⚠" />
 </h1>
-<h1 align="center" style="color:#00FF00;">👨‍💻 Puskar Nath</h1>
+<h1 align="center" style="color:#00FF00;">PUSKAR NATH</h1>
 
-<p align="center" style="color:#90EE90; font-size:18px;">
-  🌱 2nd Year Student at <b>Bengal Institute of Technology</b>  
+<p align="center" style="color:#00FF00; font-size:18px;">
+  🕸️2nd Year Student at <b>      || BENGAL INSTITUTE OF TECHNOLOGY ||  🕸️  </b>  
   <br>
   💫 Developing the Development
 </p>
@@ -13,7 +13,7 @@
 
 <h2 align="center" style="color:#00FF00;">📆 Productivity Insights</h2>
 
-<p align="center" style="color:#90EE90; font-size:16px;">
+<p align="center" style="color:#00FF00; font-size:16px;">
   🌞 <b>I'm an all day Coder</b> — Most active in the Night!  
   <br><br>
   📅 <b>Most Productive Day:</b> Sunday 🟢  
