@@ -8,6 +8,45 @@
 
 ---
 
+<h2 align="center" style="color:#00FF00;">📆 Productivity Insights</h2>
+
+<p align="center" style="color:#90EE90; font-size:16px;">
+  🌞 <b>I'm an all day Coder</b> — Most active in the Night!  
+  <br><br>
+  📅 <b>Most Productive Day:</b> Sunday 🟢  
+  <br><br>
+  💻 <b>This Week’s Languages:</b> Java Script, Java, Python, CSS, SQL  
+  <br>
+  🧠 <i>Constantly exploring new tools and frameworks...</i>
+</p>
+---
+<h2 align="center" style="color:#00FF00;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=chartreuse-dark&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=chartreuse-dark&hide_border=true" width="50%"/>
+</p>
+
+---
+
+<h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<h2 align="center" style="color:#00FF00;">🕒 Coding Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Puskar2Sora&theme=chartreuse-dark&hide_border=true&v=2" width="70%"/>
+</p>
+
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
 <p align="center">
@@ -42,47 +81,6 @@
 </p>
 
 ---
-
-<h2 align="center" style="color:#00FF00;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=chartreuse-dark&hide_border=true" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=chartreuse-dark&hide_border=true" width="50%"/>
-</p>
-
----
-
-<h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-<h2 align="center" style="color:#00FF00;">🕒 Coding Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Puskar2Sora&theme=chartreuse-dark&hide_border=true&v=2" width="70%"/>
-</p>
-
----
-
-<h2 align="center" style="color:#00FF00;">📆 Productivity Insights</h2>
-
-<p align="center" style="color:#90EE90; font-size:16px;">
-  🌞 <b>I'm an Early Coder</b> — Most active in the Morning!  
-  <br><br>
-  📅 <b>Most Productive Day:</b> Saturday 🟢  
-  <br><br>
-  💻 <b>This Week’s Languages:</b> HTML, Java, Python, CSS, SQL  
-  <br>
-  🧠 <i>Constantly exploring new tools and frameworks...</i>
-</p>
 
 ---
 
