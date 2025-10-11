@@ -1,7 +1,9 @@
 <h1 align="center" style="color:#00FFFF;">👨‍💻 Puskar Nath</h1>
 
-<p align="center" style="color:#FFB700;">
-  <b>✨ Developing the Development ✨</b>
+<p align="center" style="color:#FFB700; font-size:18px;">
+  ✨ Developing the Development ✨  
+  <br>
+  🎓 2nd Year Student at <b>Bengal Institute of Technology</b>
 </p>
 
 ---
@@ -21,7 +23,19 @@
 
 ---
 
-<h2 align="center" style="color:#00FFFF;">🏆 GitHub Achievements</h2>
+<h2 align="center" style="color:#00FFFF;">🧰 Tools & Environment</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="NetBeans" alt="NetBeans" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL Workbench" alt="MySQL Workbench" width="50" height="50"/>
+</p>
+
+---
+
+<h2 align="center" style="color:#FF00FF;">🏆 GitHub Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Puskar2Sora&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
@@ -37,7 +51,7 @@
 
 ---
 
-<h2 align="center" style="color:#FF00FF;">🌐 Let's Connect</h2>
+<h2 align="center" style="color:#00FFFF;">🌐 Let's Connect</h2>
 
 <p align="center" style="font-size:18px;">
   <a href="https://twitter.com/last_safar" target="_blank" style="color:#00FFFF;">🐦 Twitter</a> &nbsp;&nbsp;
