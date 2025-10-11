@@ -1,3 +1,6 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=800&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=ゼロ+いち+に+さん+ご+はち+じゅうさん+にじゅういち+さんじゅうよん+ごじゅうご+はちじゅうきゅう+ひゃくよんじゅうよん+にひゃくさんじゅうさん;Mo5hi+Mo5hi+👋;おはようございます+プスカーさん+;I'm+Pu5kar+Na1h;I'm+Puskar+Nath;Coder+%7C+Guitarist+%7C+Anime+Lover;%3CERROR%3E+LOADING...;⚠+システム破損+⚠;⚠+System+Corrupted+⚠" />
+</h1>
 <h1 align="center" style="color:#00FF00;">👨‍💻 Puskar Nath</h1>
 
 <p align="center" style="color:#90EE90; font-size:18px;">
