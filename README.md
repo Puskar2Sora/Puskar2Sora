@@ -42,14 +42,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="100%" />
 </p>
 
----
-
-<h2 align="center" style="color:#00FF00;">🕒 Coding Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Puskar2Sora&theme=chartreuse-dark&hide_border=true&v=2" width="70%"/>
-</p>
-
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
 <p align="center">
