@@ -29,10 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=chartreuse-dark&hide_border=true" height="170px"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=chartreuse-dark&hide_border=true" width="50%"/>
 </p>
+
 
 ---
 
