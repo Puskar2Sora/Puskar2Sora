@@ -40,10 +40,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="100%" />
 </p>
+----
+<p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
+</p>
+----
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
 <p align="center">
