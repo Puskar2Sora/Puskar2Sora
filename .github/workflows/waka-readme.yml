@@ -1,24 +1,14 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight
-  workflow_dispatch:      # allows manual trigger
+    - cron: "0 */6 * * *"  # updates every 6 hours
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
