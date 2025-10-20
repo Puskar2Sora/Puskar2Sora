@@ -8,7 +8,7 @@
   <br>
   💫 Developing the Development
 </p>
----
+
 
 <h2 align="center" style="color:#00FF00;">📆 Productivity Insights</h2>
 
@@ -21,18 +21,17 @@
   <br>
   🧠 <i>Constantly exploring new tools and frameworks...</i>
 </p>
----
-----<h3 align="center">📈 GitHub Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
-----
 
----
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
 
 <h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%" />
 </p>
+
+
 
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
@@ -47,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
 </p>
 
----
+
 
 <h2 align="center" style="color:#00FF00;">🧰 Tools & Environment</h2>
 
@@ -59,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL Workbench"/>
 </p>
 
----
+
 
 <h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
 
@@ -67,9 +66,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Puskar2Sora&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
 </p>
 
----
-
----
 
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 
@@ -80,8 +76,7 @@
   <a href="https://www.hackerearth.com/@puskarnath110" target="_blank" style="color:#00FF00;">💻 HackerEarth</a>
 </p>
 
----
 
 <p align="center" style="color:#00FF00;">
-  💚 “Code. Learn. Build. Repeat.” 💚
+   “Jibon Cholche Na Ar Soja Pothe” 
 </p>
