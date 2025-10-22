@@ -9,21 +9,15 @@
   💫 Developing the Development
 </p>
 
-
-<h2 align="center" style="color:#00FF00;">📆 Productivity Insights</h2>
-
-<p align="center" style="color:#00FF00; font-size:16px;">
-  🌞 <b>I'm an all day Coder</b> — Most active in the Night!  
-  <br><br>
-  📅 <b>Most Productive Day:</b> Sunday 🟢  
-  <br><br>
-  💻 <b>This Week’s Languages:</b> Java Script, Java, Python, CSS, SQL  
-  <br>
-  🧠 <i>Constantly exploring new tools and frameworks...</i>
 </p>
+<br/><br/>
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&color=39FF14&pause=500&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics+⚡" />
+</h3>
 
 <h3 align="center">📈 GitHub Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
+<p align="center">  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
 
 <h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
 
