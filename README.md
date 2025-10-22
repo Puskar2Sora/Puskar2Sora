@@ -4,7 +4,8 @@
 <h1 align="center" style="color:#00FF00;">PUSKAR NATH</h1>
 
 <p align="center" style="color:#00FF00; font-size:18px;">
-  🕸️2nd Year Student at <b>      || BENGAL INSTITUTE OF TECHNOLOGY ||  🕸️  </b>  
+  🕸️2nd Year Student at <b>      || BENGAL INSTITUTE OF TECHNOLOGY ||    🕸️  </b>  
+      B.TECH  ||   Computer Science
   <br>
   💫 Developing the Development
 </p>
