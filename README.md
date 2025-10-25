@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
 </p>
 
-
-
 <h2 align="center" style="color:#00FF00;">🧰 Tools & Environment</h2>
 
 <p align="center">
