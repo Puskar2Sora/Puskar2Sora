@@ -9,25 +9,7 @@
   <br>
   💫 Developing the Development
 </p>
-
-</p>
-<br/><br/>
-<h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&color=39FF14&pause=500&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics+⚡" />
-</h3>
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
-
-<h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%" />
-</p>
-
-
-
+<br></br>
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
 <p align="center">
@@ -50,6 +32,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL Workbench"/>
 </p>
+
+</p>
+<br/><br/>
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&color=39FF14&pause=500&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics+⚡" />
+</h3>
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
+
+<h2 align="center" style="color:#00FF00;">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%" />
+</p>
+
+
 
 
 
