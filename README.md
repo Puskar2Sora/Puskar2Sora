@@ -8,9 +8,9 @@
   🕸️2nd Year Student at <b>      || BENGAL INSTITUTE OF TECHNOLOGY ||    🕸️  </b>  
       B.TECH  ||   Computer Science
   <br>
-  💫 Developing the Development
+  #Developing the Development
 </p>
-<br></br>
+
 <h2 align="center" style="color:#00FF00;">💻 Tech Stack</h2>
 
 <p align="center">
@@ -35,10 +35,7 @@
 </p>
 
 </p>
-<br/><br/>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=36&duration=1&pause=1000000&color=39FF14&center=true&vCenter=true&width=750&lines=^_^+Current+Statistics+^_^" />
-</h2>
+<br></br>
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight" /> </p>
@@ -48,10 +45,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%" />
 </p>
-
-
-
-
 
 <h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
 
