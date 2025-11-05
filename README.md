@@ -16,7 +16,7 @@
 <table>
   <tr>
     <!-- 💻 Programming Languages -->
-    <td align="center" width="450" style="border: 2px solid #00FF00; border-radius:10px; padding: 15px;">
+    <td align="center" width="500" height="60" style="border: 5px solid #00FF00; border-radius:10px; padding: 15px;">
       <h3 style="color:#00FF00;">💻 Programming Languages</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" title="C"/>&nbsp;
@@ -26,6 +26,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" height="60" alt="MongoDB Leaf"/>
       </p>
     </td>
     <td align="center" width="450" style="border: 2px solid #00FF00; border-radius:10px; padding: 15px;">
