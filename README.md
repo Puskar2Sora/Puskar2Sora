@@ -17,12 +17,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
 </p>
+
 
 <h2 align="center" style="color:#00FF00;">🧰 Tools & Environment</h2>
 
@@ -32,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" title="NetBeans"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL Workbench"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="35" />
 </p>
 
 </p>
@@ -55,14 +58,28 @@
 
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 
-<p align="center" style="font-size:18px;">
-  <a href="https://twitter.com/last_safar" target="_blank" style="color:#00FF00;">🐦 Twitter</a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/puskar-nath" target="_blank" style="color:#00FF00;">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@worstlifestudios" target="_blank" style="color:#00FF00;">📺 YouTube</a> &nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@puskarnath110" target="_blank" style="color:#00FF00;">💻 HackerEarth</a>
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/puskar-nath-a44958314/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+         alt="LinkedIn" width="40" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/(https://x.com/Last_Safar?t=YGrkDLF8oyCD85b6TSpjFQ&s=08)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" 
+         alt="Twitter" width="40" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:puskarofficial404@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+         alt="Gmail" width="40" />
+  </a>
 </p>
 
 
+
 <p align="center" style="color:#00FF00;">
-   “Jibon Cholche Na Ar Soja Pothe” 
+   &nbsp;&nbsp; <b>“Jibon Cholche Na Ar Soja Pothe”</b> 
 </p>
