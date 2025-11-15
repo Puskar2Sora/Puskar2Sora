@@ -9,42 +9,93 @@
   B.TECH || Computer Science<br>
   #Developing the Development
 </p>
-<br></br>
 
 <div align="center">
 
-<table>
-  <tr>
-    <!-- 💻 Programming Languages -->
-    <td align="center" width="500" height="60" style="border: 5px solid #00FF00; border-radius:10px; padding: 15px;">
-      <h3 style="color:#00FF00;">💻 Programming Languages</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" title="C"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python Logo"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" height="60" alt="MongoDB Leaf"/>
-      </p>
-    </td>
-    <td align="center" width="450" style="border: 2px solid #00FF00; border-radius:10px; padding: 15px;">
-      <h3 style="color:#00FF00;">🧰 Tools & Platforms</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" title="Android Studio"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" title="Figma"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" width="45" height="45" title="GitHub Copilot" alt="GitHub Copilot Logo"/>&nbsp;
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
 <br></br>
+## 🧰 Language And Tools
+
+---
+
+### **Languages**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>
+</p>
+
+---
+
+### **Frontend**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="48"/>
+</p>
+
+---
+
+### **Backend & Frameworks**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=django" width="48"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="48"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+
+  <!-- Java Swing -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java Swing"/>
+</p>
+
+---
+
+### **Database**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+</p>
+
+---
+
+### **DevOps / Deployment**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="48"/>
+   <!-- Lovable -->
+  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png "  width="48" />
+
+
+---
+
+### **API / Tools**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48"/>
+</p>
+
+---
+
+### **Platforms**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/>
+   <img src="https://camo.githubusercontent.com/0ec0592fe4ccb70a859f2e8617c7d3bcbc2b76b885ba5f3d9aec63ad33a55312/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265706c6974267468656d653d6461726b"/>
+<!-- Apache NetBeans -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" title="Apache NetBeans"/>
+</p>
+
 <br>
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
 <p align="center">
@@ -57,6 +108,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%"/>
 </p>
+
+<br></br>
 
 <h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
 <p align="center">
