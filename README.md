@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html" width="48"/>
   <img src="https://skillicons.dev/icons?i=css" width="48"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
-  <img src="https://skillicons.dev/icons?i=typescript" width="48"/>
   <img src="https://skillicons.dev/icons?i=c" width="48"/>
   <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
   <img src="https://skillicons.dev/icons?i=java" width="48"/>
@@ -36,18 +35,14 @@
   <img src="https://skillicons.dev/icons?i=react" width="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
-  <img src="https://skillicons.dev/icons?i=vue" width="48"/>
 </p>
 
 ---
 
 ### **Backend & Frameworks**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=django" width="48"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="48"/>
   <img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-
   <!-- Java Swing -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java Swing"/>
 </p>
@@ -66,7 +61,6 @@
 
 ### **DevOps / Deployment**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
   <img src="https://skillicons.dev/icons?i=githubactions" width="48"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="48"/>
@@ -78,7 +72,6 @@
 
 ### **API / Tools**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" width="48"/>
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
   <img src="https://skillicons.dev/icons?i=figma" width="48"/>
