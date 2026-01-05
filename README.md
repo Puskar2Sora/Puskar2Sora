@@ -20,8 +20,7 @@
 ### **Languages**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=python" width="48"/>
-  <img src="https://skillicons.dev/icons?i=html" width="48"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48"/>
+ 
   <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
   <img src="https://skillicons.dev/icons?i=c" width="48"/>
   <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
@@ -35,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=react" width="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+   <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>
 </p>
 
 ---
