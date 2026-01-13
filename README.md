@@ -65,7 +65,8 @@
   <img src="https://skillicons.dev/icons?i=githubactions" width="48"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="48"/>
-   <!-- Lovable -->
+ <img src="https://seeklogo.com/images/R/render-logo-2F2C2AE0A0-seeklogo.com.svg" width="120" />
+  <!-- Lovable -->
   <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png "  width="48" />
 
 
