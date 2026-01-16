@@ -9,13 +9,10 @@
   B.TECH || Computer Science<br>
   #Developing the Development
 </p>
-
 <div align="center">
 
-<br></br>
 ## 🧰 Language And Tools
 
----
 
 ### **Languages**
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
