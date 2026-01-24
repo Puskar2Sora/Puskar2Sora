@@ -90,7 +90,7 @@
 <h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
-  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g" target="_blank">
+  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
     <img src="postman.png" width="150" alt="Postman Badge"/>
   </a>
   <br/><br/>
