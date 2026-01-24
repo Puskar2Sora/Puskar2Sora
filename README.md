@@ -10,83 +10,67 @@
   #Developing the Development
 </p>
 <div align="center">
+<h2 align="center">🧰 Languages & Tools</h2>
 
-## 🧰 Language And Tools
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend / Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+      <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java Swing"/>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-### **Languages**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=python" width="48"/>
- 
-  <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
-  <img src="https://skillicons.dev/icons?i=c" width="48"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48"/>
-</p>
+<table align="center">
+  <tr>
+    <th>Database</th>
+    <th>DevOps / Deployment</th>
+    <th>API / Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" />
+      <br/>
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="42"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" alt="Postman"/>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### **Frontend**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=react" width="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
-   <img src="https://skillicons.dev/icons?i=html" width="48"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48"/>
-</p>
-
----
-
-### **Backend & Frameworks**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-  <!-- Java Swing -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java Swing"/>
-</p>
-
----
-
-### **Database**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
-</p>
-
----
-
-### **DevOps / Deployment**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="48"/>
- <img src="https://seeklogo.com/images/R/render-logo-2F2C2AE0A0-seeklogo.com.svg" width="120" />
-  <!-- Lovable -->
-  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png "  width="48" />
-
-
----
-
-### **API / Tools**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=git" width="48"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="48"/>
-</p>
-
----
-
-### **Platforms**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=linux" width="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/>
-   <img src="https://camo.githubusercontent.com/0ec0592fe4ccb70a859f2e8617c7d3bcbc2b76b885ba5f3d9aec63ad33a55312/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265706c6974267468656d653d6461726b"/>
-<!-- Apache NetBeans -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" title="Apache NetBeans"/>
-</p>
+<table align="center">
+  <tr>
+    <th>Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,replit" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="42"/>
+    </td>
+  </tr>
+</table>
+<br></br>
 <h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
