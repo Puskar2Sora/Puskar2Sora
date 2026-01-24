@@ -87,14 +87,17 @@
 <!-- Apache NetBeans -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" title="Apache NetBeans"/>
 </p>
----
-<p align="center">
-  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g">
-    <img src="postman.png" width="140" alt="Postman Badge"/>
+<h2 align="center">🏆 Certifications</h2>
+
+<div align="center">
+  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g" target="_blank">
+    <img src="postman.png" width="150" alt="Postman Badge"/>
   </a>
-</p>
->
----
+  <br/><br/>
+  <b>Postman Student Expert</b><br/>
+  <sub>API Fundamentals • Verified Credential</sub>
+</div>
+
 <br>
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
 <p align="center">
