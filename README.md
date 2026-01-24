@@ -87,7 +87,14 @@
 <!-- Apache NetBeans -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" title="Apache NetBeans"/>
 </p>
-
+---
+<p align="center">
+  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g">
+    <img src="postman.png" width="140" alt="Postman Badge"/>
+  </a>
+</p>
+>
+---
 <br>
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
 <p align="center">
