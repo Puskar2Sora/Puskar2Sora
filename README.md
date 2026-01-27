@@ -71,7 +71,7 @@
   </tr>
 </table>
 <br></br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=🏆Certifications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39knoj4&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅" />
 <div align="center">
   <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
     <img src="postman.png" width="150" alt="Postman Badge"/>
@@ -95,12 +95,6 @@
 </p>
 
 <br></br>
-
-<h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puskar2Sora&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
-</p>
-
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 
 <p align="center">
