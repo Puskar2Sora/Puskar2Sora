@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PUSKAR%20NATH&fontSize=85&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20Developing%20the%20Development%20%E2%9C%A7&descSize=22&descAlignY=60&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=PUSKAR%20NATH&fontSize=55&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20Developing%20the%20Developments%20%E2%9C%A7&descSize=22&descAlignY=60&theme=tokyonight" />
 </p>
+
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
