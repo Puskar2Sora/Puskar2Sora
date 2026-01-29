@@ -23,7 +23,7 @@
       <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
@@ -43,11 +43,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" />
-      <br/>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="35" alt="Render"/>
+ <br/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
