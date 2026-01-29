@@ -99,15 +99,34 @@
   </tr>
 </table>
 <br></br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39knoj4&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=>>+ACHIEVEMENTS+UNLOCKED;>>+VERIFIED+CREDENTIALS;>>+THE+TROPHY+VAULT" alt="Badges Header" />
+</p>
+
 <div align="center">
-  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
-    <img src="postman.png" width="150" alt="Postman Badge"/>
-  </a>
-  <br/><br/>
-  <b>Postman Student Expert</b><br/>
-  <sub>API Fundamentals • Verified Credential</sub>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" bgcolor="#16161e" style="border: 2px solid #7dcfff; border-radius: 20px; padding: 30px; box-shadow: 0px 0px 20px rgba(122, 162, 247, 0.3);">
+        <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
+          <img src="postman.png" width="160" alt="Postman Badge" style="filter: drop-shadow(0 0 10px #7dcfff);"/>
+        </a>
+        <br/><br/>
+        <h3 style="color: #7dcfff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+          POSTMAN STUDENT EXPERT
+        </h3>
+        <p style="color: #bb9af7; font-family: monospace; font-size: 14px; margin-top: 10px;">
+          <b>API Fundamentals • Verified Credential</b>
+        </p>
+        <img src="https://img.shields.io/badge/STATUS-VERIFIED-9ece6a?style=flat-square&logo=checkmarx&logoColor=white" />
+        <img src="https://img.shields.io/badge/SKILLS-APIs_&_TESTING-7aa2f7?style=flat-square" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</p>
 
 <br>
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
