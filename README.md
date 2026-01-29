@@ -48,7 +48,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" />
       <br/>
-      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="42"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
