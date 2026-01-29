@@ -9,14 +9,6 @@
   </a>
 </h2>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VERSION-2.0.26-7AA2F7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9218FA?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-BB9AF7?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1A1B27" />
-</div>
-
-<br>
 <h1 align="center">🧰 Languages & Tools</h1>
 
 <table align="center">
@@ -145,3 +137,10 @@
 <p align="center" style="color:#00FF00;">
   <b>“Main rahoon ya na rahoon”</b>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VERSION-2.0.26-7AA2F7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9218FA?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-BB9AF7?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1A1B27" />
+</div>
+
