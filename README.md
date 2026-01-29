@@ -1,16 +1,43 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=⚠+システム破損+⚠;⚠+System+Corrupted+⚠" />
-</h1>
-
-<h1 align="center" style="color:#00FF00;">PUSKAR NATH</h1>
-
-<p align="center" style="color:#00FF00; font-size:18px;">
-  🕸️ 2nd Year Student at <b>|| BENGAL INSTITUTE OF TECHNOLOGY ||</b><br>
-  B.TECH || Computer Science<br>
-  #Developing the Development
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PUSKAR%20NATH&fontSize=85&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20Developing%20the%20Development%20%E2%9C%A7&descSize=22&descAlignY=60&theme=tokyonight" />
 </p>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=>>+SYSTEM+STATUS:+OPTIMAL;>>+2nd+Year+CS+Student;>>+B.TECH+||+COMPUTER+SCIENCE;>>+ACCESSING+CORE+MODULES..." alt="Typing SVG" />
+  </a>
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</p>
+
 <div align="center">
-<h2 align="center">🧰 Languages & Tools</h2>
+  <img src="https://img.shields.io/badge/VERSION-2.0.26-7AA2F7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9218FA?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-BB9AF7?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1A1B27" />
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td bgcolor="#1A1B27" style="border: 1px solid #7AA2F7; border-radius: 10px; padding: 20px;">
+      <code style="color: #7AA2F7; font-family: 'Courier New', Courier, monospace;">
+        <span style="color: #BB9AF7;">const</span> <b>Developer</b> = { <br>
+        &nbsp;&nbsp;name: <span style="color: #9ECE6A;">'Puskar Nath'</span>, <br>
+        &nbsp;&nbsp;focus: <span style="color: #9ECE6A;">'Full-Stack Development'</span>, <br>
+        &nbsp;&nbsp;motto: <span style="color: #9ECE6A;">'Developing the Development'</span> <br>
+        };
+      </code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</p>
+<h1 align="center">🧰 Languages & Tools</h1>
 
 <table align="center">
   <tr>
@@ -117,5 +144,5 @@
 </p>
 
 <p align="center" style="color:#00FF00;">
-  <b>“Jibon Cholche Na Ar Soja Pothe”</b>
+  <b>“Main rahoon ya na rahoon”</b>
 </p>
