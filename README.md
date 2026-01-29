@@ -9,9 +9,6 @@
   </a>
 </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VERSION-2.0.26-7AA2F7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1A1B27" />
@@ -20,24 +17,6 @@
 </div>
 
 <br>
-
-<table align="center">
-  <tr>
-    <td bgcolor="#1A1B27" style="border: 1px solid #7AA2F7; border-radius: 10px; padding: 20px;">
-      <code style="color: #7AA2F7; font-family: 'Courier New', Courier, monospace;">
-        <span style="color: #BB9AF7;">const</span> <b>Developer</b> = { <br>
-        &nbsp;&nbsp;name: <span style="color: #9ECE6A;">'Puskar Nath'</span>, <br>
-        &nbsp;&nbsp;focus: <span style="color: #9ECE6A;">'Full-Stack Development'</span>, <br>
-        &nbsp;&nbsp;motto: <span style="color: #9ECE6A;">'Developing the Development'</span> <br>
-        };
-      </code>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</p>
 <h1 align="center">🧰 Languages & Tools</h1>
 
 <table align="center">
