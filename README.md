@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=PUSKAR%20NATH&fontSize=55&animation=typing&fontAlignY=35&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+just+a+developer;" alt="Terminal Typing" />
 </p>
 
 
