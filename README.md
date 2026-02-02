@@ -1,17 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+Just+a+developer;" alt="Terminal Typing" />
 </p>
+<h1 ></h1>
 
-
-
-<h1 align="center">🧰 Languages & Tools</h1>
-
+<br></br>
 <table align="center">
   <tr>
     <th>Languages</th>
     <th>Frontend</th>
     <th>Backend / Frameworks</th>
   </tr>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9C%A7+TECH+STACK+%E2%9C%A7;%E2%9C%A7+MY+TOOLBOX+%E2%9C%A7" />
+</p>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
@@ -71,9 +72,6 @@
 </p>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" bgcolor="#16161e" style="border: 2px solid #7dcfff; border-radius: 20px; padding: 30px; box-shadow: 0px 0px 20px rgba(122, 162, 247, 0.3);">
         <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
           <img src="postman.png" width="160" alt="Postman Badge" style="filter: drop-shadow(0 0 10px #7dcfff);"/>
         </a>
@@ -86,9 +84,6 @@
         </p>
         <img src="https://img.shields.io/badge/STATUS-VERIFIED-9ece6a?style=flat-square&logo=checkmarx&logoColor=white" />
         <img src="https://img.shields.io/badge/SKILLS-APIs_&_TESTING-7aa2f7?style=flat-square" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 
