@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+just+a+developer;" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=2AC3DE&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+Just+a+developer;" alt="Terminal Typing" />
 </p>
 
 
