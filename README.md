@@ -59,8 +59,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,replit" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="42"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="42"/>
     </td>
   </tr>
 </table>
