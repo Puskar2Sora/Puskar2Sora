@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=PUSKAR%20NATH&fontSize=55&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20Developing%20the%20Developments%20%E2%9C%A7&descSize=22&descAlignY=60&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=PUSKAR%20NATH&fontSize=55&animation=typing&fontAlignY=35&theme=tokyonight" />
 </p>
 
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=>>+SYSTEM+STATUS:+OPTIMAL;>>+2nd+Year+CS+Student;>>+B.TECH+||+COMPUTER+SCIENCE;>>+ACCESSING+CORE+MODULES..." alt="Typing SVG" />
-  </a>
-</h2>
 
 <h1 align="center">🧰 Languages & Tools</h1>
 
@@ -95,9 +90,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</p>
 
 <br>
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
