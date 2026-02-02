@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+Just+a+developer;" alt="Terminal Typing" />
 </p>
 <h1 ></h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3og0IFrHkIglEOg8Ba/giphy.gif" width="250" />
+</p>
 <br></br>
 <table align="center">
   <tr>
