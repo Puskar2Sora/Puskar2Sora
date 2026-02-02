@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vercel,netlify" />
@@ -59,14 +59,14 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,replit" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,replit" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="42"/>
     </td>
   </tr>
 </table>
 <br></br>
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=>>+ACHIEVEMENTS+UNLOCKED;>>+VERIFIED+CREDENTIALS;>>+THE+TROPHY+VAULT" alt="Badges Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅;"alt="Badges Header" />
 </p>
 
 <div align="center">
