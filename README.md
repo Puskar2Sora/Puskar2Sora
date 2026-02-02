@@ -93,12 +93,6 @@
 
 
 <br>
-<h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight"/>
-</p>
 
 <h2 align="center" style="color:#00FF00;">📊 Activity Graph</h2>
 <p align="center">
