@@ -73,18 +73,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅;"alt="Badges Header" />
 </p>
 
-<div align="center">
-     <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank"></a>
-  <img src="postman.png" width="100" alt="Postman Badge"/>    
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" />
-  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="90" />
-    
-</div>
 
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
+        <img src="postman.png" width="100" alt="Postman Badge"/>
+      </a>
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" />
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" />
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" />
+      <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="90" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
