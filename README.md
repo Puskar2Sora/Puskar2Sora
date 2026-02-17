@@ -75,7 +75,6 @@
 
 
 <div align="center">
-  <a href="https://badges.parchment.com/public/assertions/k-VDtThuRbCxqV25RFocHw?identity__email=subhojyotimaity1082005%40gmail.com" target="_blank">
      <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
           <img src="postman.png" width="100" alt="Postman Badge" style="filter: drop-shadow(0 0 10px #7dcfff);"/>
         </a>
