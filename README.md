@@ -73,11 +73,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅;"alt="Badges Header" />
 </p>
 
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g"><img width="120px" height="120px" src="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g/image"></a><p class="badgr-badge-name" </blockquote>
 
 <div align="center">
      <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
-          <img src="postman.png" width="100" alt="Postman Badge" style="filter: drop-shadow(0 0 10px #7dcfff);"/>
-        </a>
+  <img src="postman.png" width="100" alt="Postman Badge"/>    
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" />
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" />
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" />
@@ -120,10 +120,3 @@
 <p align="center" style="color:#00FF00;">
   <b>“Main rahoon ya na rahoon”</b>
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VERSION-2.0.26-7AA2F7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9218FA?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-BB9AF7?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1A1B27" />
-</div>
-
