@@ -80,14 +80,14 @@
   <tr>
     <td align="center">
       <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
-        <img src="postman.png" width="100" alt="Postman Badge"/>
+        <img src="postman.png" width="80" alt="Postman Badge"/>
       </a>
-      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
-      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" />
-      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" />
-      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
-      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" />
-      <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="90" />
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" />
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" />
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" />
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" />
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" />
+      <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="80" />
     </td>
   </tr>
 </table>
