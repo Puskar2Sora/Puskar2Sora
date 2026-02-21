@@ -24,9 +24,10 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+       <img src="https://skillicons.dev/icons?i=express" />
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java Swing"/>
       <br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java Swing"/>
-    </td>
+     </td>
   </tr>
 </table>
 
