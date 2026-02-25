@@ -69,6 +69,35 @@
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <th>Best Buddies</th>
+  </tr>
+
+  <tr>
+    <!-- AI TOOLS -->
+    <td align="center"> 
+            <!-- Lovable -->
+      <img 
+        src="https://lovable.dev/favicon.ico" 
+        width="42"
+        style="background:#ff4d4d; padding:15px; border-radius:20px; margin:15px;"
+      />
+<!-- Claude (Anthropic official orange #D97706 approx) -->
+      <img 
+        src="./assets/claude.png" 
+        width="42"
+        style="border-radius:20px; margin:15px;"
+      />
+      <img src="https://cdn.simpleicons.org/openai" width="45"/>
+      <img src="https://cdn.simpleicons.org/huggingface" width="45"/>
+    </td>
+     </tr>
+</table>
+
+<br>
+
 <br></br>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅;"alt="Badges Header" />
