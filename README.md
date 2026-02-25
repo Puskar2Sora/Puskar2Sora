@@ -155,6 +155,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/puskar">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" />
+  </a>
+</p>
+
 <p align="center" style="color:#00FF00;">
   <b>“Main rahoon ya na rahoon”</b>
 </p>
