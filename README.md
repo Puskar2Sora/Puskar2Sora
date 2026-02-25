@@ -42,6 +42,7 @@
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+              <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50" height="60"/><br/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vercel,netlify" />
@@ -65,7 +66,8 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux,vscode" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="42"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="42"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="52"/>
+      <img src="https://cdn.simpleicons.org/googlecolab" width="52" />
     </td>
   </tr>
 </table>
