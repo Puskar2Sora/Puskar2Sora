@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Puskar+Nath;%3E+Just+a+developer;" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=(●'◡'●);Puskar+Nath;%3E+Just+a+developer;" alt="Terminal Typing" />
 </p>
 <h1 ></h1>
 <p align="center">
@@ -12,8 +12,6 @@
     <th>Frontend</th>
     <th>Backend / Frameworks</th>
   </tr>
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9C%A7+TECH+STACK+%E2%9C%A7;%E2%9C%A7+MY+TOOLBOX+%E2%9C%A7" />
 </p>
   <tr>
     <td align="center">
