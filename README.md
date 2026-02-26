@@ -52,6 +52,10 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" alt="Postman"/>
+      <br></br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+        <img src="https://svg.saasfly.io/library/flask-dark.svg" width="40"/>
     </td>
   </tr>
 </table>
