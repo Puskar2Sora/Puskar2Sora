@@ -134,7 +134,6 @@
 </p>
 
 <br></br>
-<h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 
 <p align="center">
   <!-- LinkedIn -->
