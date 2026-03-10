@@ -103,8 +103,6 @@
 </table>
 
 <br>
-
-<br></br>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=🏅+Badges+🏅;"alt="Badges Header" />
 </p>
