@@ -96,8 +96,8 @@
         width="42"
         style="border-radius:20px; margin:15px;"
       />
-      <img src="https://cdn.simpleicons.org/openai" width="45"/>
-      <img src="https://cdn.simpleicons.org/huggingface" width="45"/>
+   <img src="./assets/openai.svg" width="45" style="filter: invert(1);" /> 
+   <img src="./assets/gemini.svg" width="45" />
     </td>
      </tr>
 </table>
