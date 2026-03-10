@@ -131,13 +131,6 @@
 
 <br>
 
-<h2 align="center" style="color:#00FF00;">📊 Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%"/>
-</p>
-
-<br></br>
-
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/puskar-nath-a44958314/" target="_blank">
