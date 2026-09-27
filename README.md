@@ -166,7 +166,6 @@ VS Code                  2 hrs 25 mins       ███████████�
 
 ```
 <!--END_SECTION:waka-->
----
 
 <p align="center">
   <!-- LinkedIn -->
