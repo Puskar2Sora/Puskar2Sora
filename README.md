@@ -29,8 +29,6 @@
   </tr>
 </table>
 
-
-
 <br/>
 
 <table align="center">
@@ -123,6 +121,52 @@
 </div>
 
 <br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%205%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.39%20million%20lines%20of%20code-blue?style=flat)
+
+
+
+```text
+ Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+ Daytime                1465 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+ Evening                2863 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
+ Night                  326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+```
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+Programming Languages: 
+Markdown                 1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Java                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Python                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+
+Editors: 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+
+```
+
+**AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hrs 54 mins (52.45%)
+
+3,254 lines written by AI, 235 lines written by hand (92.24% AI-written)
+
+569,125 Input Tokens, 144,258 Output Tokens
+
+16 AI Sessions, 28 AI Prompts
+
+```
+<!--END_SECTION:waka-->
+---
 
 <p align="center">
   <!-- LinkedIn -->
