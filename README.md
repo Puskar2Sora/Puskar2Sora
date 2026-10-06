@@ -120,14 +120,6 @@
 </div>
 <br>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2019%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%205%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.39%20million%20lines%20of%20code-blue?style=flat)
-
-
-
 ```text
  Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
  Daytime                1465 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
@@ -146,7 +138,7 @@ JavaScript               21 mins             ██░░░░░░░░░�
 HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 Editors: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 ```
 
